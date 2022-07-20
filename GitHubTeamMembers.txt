@@ -1,0 +1,341 @@
+
+20 July 2022 16:55:03
+
+Aeturnum/CAPBPM [29]:
+julianray
+kunalcrimson
+d-molotchko-cap
+AleksandarBelchev
+dbandaraapriori
+myoungapriori
+gowthamyapriori
+cwijesuriyaapriori
+vv-minakov
+oholynska
+MykolaHubenko
+rkutuhin
+kpabasaraapriori
+ravinda-apriori
+slakmalapriori
+NuskyAP
+blakshan
+SitparanAp
+vladys-hrytsenko
+bsusiripala
+mhimaz-apriori
+Ankit-apriori
+3p-mrizan
+apriorimsmyrnov
+santosh-apriori
+kewin-ap
+vishwajithj-ap
+dil-jay
+3p-idiluksha
+
+
+aPriori Admins [3]:
+aprioritech
+cchalke-apriori
+bmantenuto-apriori
+
+
+apriori-backups [1]:
+apriori-backup
+
+
+Architects [6]:
+glucas
+wvkehoe
+julianray
+andy-jenkins
+floklaus17
+scalabrese01
+
+
+ATV Developers [12]:
+glucas
+papoyan
+julianray
+thebriankeys
+kunalcrimson
+jmckinnon-apriori
+bphinneyap
+pmeadows-apriori
+mayne75
+bflanagan-apriori
+JacobR95
+bobmacw-apriori
+
+
+Build Bots [2]:
+aprioritech
+build-bot-apriori
+
+
+CAD Integration [3]:
+jmckinnon-apriori
+terrycampbell850960
+apaluzziApriori
+
+
+CAD Plugin Owners [2]:
+vzarovnyi
+abaleiko
+
+
+CAPBPM DevOps [4]:
+julianray
+d-molotchko-cap
+AleksandarBelchev
+myoungapriori
+
+
+CI Design Team [6]:
+andy-jenkins
+dmishchukApriori
+colin-walsh
+itokman-apriori
+AndrewVozniuk
+3p-opatsevko
+
+
+CI Generate [6]:
+julianray
+ivinnychenko
+vliutyi
+floklaus17
+ali-apriori
+dhalchenko
+
+
+CI Source Team [6]:
+andy-jenkins
+jakesolomon
+JacobR95
+MikeKuzApriori
+jrichardson15
+brussavage-apriori
+
+
+CIG team [7]:
+vladyslav-taran
+ivinnychenko
+floklaus17
+trvaldes
+ali-apriori
+pshepilov-apriori
+dhalchenko
+
+
+Cloud Developers [22]:
+glucas
+papoyan
+julianray
+thebriankeys
+kunalcrimson
+andy-jenkins
+daniel5119
+jmckinnon-apriori
+vladyslav-taran
+mayne75
+lfranco-ap
+vkrutas
+ohorbatenko
+DmytroBondar
+patilravi70
+JacobR95
+vliutyi
+pmccauley-apriori
+floklaus17
+bobmacw-apriori
+abonta-ap
+colin-walsh
+
+
+CloudOps [7]:
+thebriankeys
+patilravi70
+pmccauley-apriori
+amitchell-apriori
+bburkeapriori
+aurbina92apriori
+isuru-apriori
+
+
+Cost Model Development [6]:
+julianray
+jmckinnon-apriori
+mtaglieri
+bflanagan-apriori
+lgoing
+NicoSweeneyOrtiz
+
+
+Costing Services Team [7]:
+glucas
+andy-jenkins
+vkrutas
+ohorbatenko
+DmytroBondar
+aliutyiapriori
+jenviger
+
+
+Customer Collaboration [3]:
+lfranco-ap
+NuskyAP
+vladys-hrytsenko
+
+
+Developers [1]:
+cchalke-apriori
+
+
+Development Tooling [5]:
+oskorokhoda
+jmckinnon-apriori
+nsabara
+mslutsenko
+Ivan-Kukhtar
+
+
+DevOps [8]:
+glucas
+papoyan
+daniel5119
+mayne75
+ap-pogo
+omonko
+3P-pluniov
+jenviger
+
+
+EPAM [1]:
+cchalke-apriori
+
+
+Identity & Security Team [5]:
+julianray
+lukemccl
+nvalieieva
+abonta-ap
+scalabrese01
+
+
+IT Team [8]:
+jmckinnon-apriori
+cchalke-apriori
+bmantenuto-apriori
+rwatson-apriori
+bthorne01
+trvaldes
+fmagoufis-ap
+DreRose
+
+
+OPS-Admins [7]:
+glucas
+julianray
+thebriankeys
+mayne75
+patilravi70
+ap-pogo
+pmccauley-apriori
+
+
+Platform Services Team [11]:
+raichonak
+jmckinnon-apriori
+akurnosau
+gladutsko-aPriori
+ochesnok
+ihryshchenko
+jzharov
+ysosnovskyi
+HannaPaios
+vpodoplielov
+3p-rkulyniak
+
+
+PLMIntegrationteam [2]:
+glucas
+julianray
+
+
+PM/UX Team [6]:
+jmckinnon-apriori
+bphinneyap
+robertokemo
+carstenhochmuth
+yzhang0611
+craig-apriori
+
+
+QA Admins [5]:
+kunalcrimson
+mayne75
+cfrith-apriori
+moyaparker
+TurboFry3
+
+
+QA Automation [26]:
+kunalcrimson
+aprioritech
+cfrith-apriori
+vzarovnyi
+smccaffreyapriori
+moyaparker
+vleonenko-ap
+scrowe-ap
+lfranco-ap
+TurboFry3
+DmytroBondar
+bhegan613
+nvalieieva
+ashek-aP
+OPerepelkin
+dogunseyin
+RachelLindenthal
+OlgaMatviienko
+epitel1
+dbarannik
+SizzlingSausagesBatman
+ricky-yabsley
+prybalka
+zmarcheva
+gurijalaram16
+KrzysztofDerezinski
+
+
+Salesforce [1]:
+cchalke-apriori
+
+
+Sensitivity Analysis [1]:
+cchalke-apriori
+
+
+Server Team [10]:
+julianray
+andy-jenkins
+vladyslav-taran
+ivinnychenko
+vliutyi
+floklaus17
+ali-apriori
+pshepilov-apriori
+dhalchenko
+3p-opatsevko
+
+
+Support Components Team [7]:
+andy-jenkins
+mvoronin-apriori
+ochesnok
+ihryshchenko
+zmarcheva
+HannaPaios
+vpodoplielov
+
+
